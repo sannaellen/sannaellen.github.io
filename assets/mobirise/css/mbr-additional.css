@@ -937,6 +937,12 @@ h6,
 #content5-1v p {
   color: #fff;
 }
+#content5-1v P {
+  color: #ffffff;
+}
+#content5-1v .mbr-section-title {
+  color: #ffffff;
+}
 #header3-1u .mbr-section-title,
 #header3-1u .mbr-section-subtitle {
   text-align: center;

@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "love-from-lapland.html",
+    "currentPage": "foodtrack.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1555,6 +1555,12 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            "P": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
             }
           },
           "_tags": [
