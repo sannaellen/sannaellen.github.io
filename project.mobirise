@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "wireframes.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -136,7 +136,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SANNAS PORTFOLIO</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SANNA´S PORTFOLIO</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">START</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"recentwork-mathem.html\" aria-expanded=\"false\">RECENT WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mathem.html\">MATHEM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wireframes.html\" aria-expanded=\"false\">WIREFRAMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LOVEFROMLAPLAND.html\" aria-expanded=\"false\">LOVEFROMLAPLAND</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"foodtrack.html\" aria-expanded=\"false\">FOOD TRACK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-me.html\" aria-expanded=\"false\">CONTACT ME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -587,7 +587,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SANNAS PORTFOLIO</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SANNA´S PORTFOLIO</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">START</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"recentwork-mathem.html\" aria-expanded=\"false\">RECENT WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mathem.html\">MATHEM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wireframes.html\" aria-expanded=\"false\">WIREFRAMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LOVEFROMLAPLAND.html\" aria-expanded=\"false\">LOVEFROMLAPLAND</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"foodtrack.html\" aria-expanded=\"false\">FOOD TRACK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-me.html\" aria-expanded=\"false\">CONTACT ME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -802,7 +802,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SANNAS PORTFOLIO</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SANNA´S PORTFOLIO</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">START</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"recentwork-mathem.html\" aria-expanded=\"false\">RECENT WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mathem.html\">MATHEM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wireframes.html\" aria-expanded=\"false\">WIREFRAMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LOVEFROMLAPLAND.html\" aria-expanded=\"false\">LOVEFROMLAPLAND</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"foodtrack.html\" aria-expanded=\"false\">FOOD TRACK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-me.html\" aria-expanded=\"false\">CONTACT ME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -970,7 +970,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SANNAS PORTFOLIO</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SANNA´S PORTFOLIO</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">START</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"recentwork-mathem.html\" aria-expanded=\"false\">RECENT WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mathem.html\">MATHEM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wireframes.html\" aria-expanded=\"false\">WIREFRAMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LOVEFROMLAPLAND.html\" aria-expanded=\"false\">LOVEFROMLAPLAND</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"foodtrack.html\" aria-expanded=\"false\">FOOD TRACK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-me.html\" aria-expanded=\"false\">CONTACT ME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -1223,7 +1223,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SANNAS PORTFOLIO</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SANNA´S PORTFOLIO</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">START</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"recentwork-mathem.html\" aria-expanded=\"false\">RECENT WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mathem.html\">MATHEM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wireframes.html\" aria-expanded=\"false\">WIREFRAMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LOVEFROMLAPLAND.html\" aria-expanded=\"false\">LOVEFROMLAPLAND</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"foodtrack.html\" aria-expanded=\"false\">FOOD TRACK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-me.html\" aria-expanded=\"false\">CONTACT ME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -1494,7 +1494,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SANNAS PORTFOLIO</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SANNA´S PORTFOLIO</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">START</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"recentwork-mathem.html\" aria-expanded=\"false\">RECENT WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mathem.html\">MATHEM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wireframes.html\" aria-expanded=\"false\">WIREFRAMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LOVEFROMLAPLAND.html\" aria-expanded=\"false\">LOVEFROMLAPLAND</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"foodtrack.html\" aria-expanded=\"false\">FOOD TRACK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-me.html\" aria-expanded=\"false\">CONTACT ME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -1918,7 +1918,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SANNAS PORTFOLIO</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SANNA´S PORTFOLIO</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">START</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"recentwork-mathem.html\" aria-expanded=\"false\">RECENT WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mathem.html\">MATHEM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wireframes.html\" aria-expanded=\"false\">WIREFRAMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LOVEFROMLAPLAND.html\" aria-expanded=\"false\">LOVEFROMLAPLAND</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"foodtrack.html\" aria-expanded=\"false\">FOOD TRACK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-me.html\" aria-expanded=\"false\">CONTACT ME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -2021,19 +2021,19 @@
           "button3": "<a data-app-btn=\"true\" href=\"LOVEFROMLAPLAND.html\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/scifishop-starwars-600x390.png",
+              "src": "@PROJECT_PATH@/assets/images/skrmavbild-2017-05-15-kl-2000x1333.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "foodtrack.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
             }
           },
-          "title4": "SCIFISHOP &nbsp;- CONVERSION &nbsp;RATE &nbsp;ANALYSIS<br>",
-          "subtitle4": "Design suggestions and user test",
-          "caption4": "Scifishop wanted a conversion rate analysis to hopefully increase their conversion rate. I did a user test with relevant scenarios to prove my analysis including design suggestions. When the analysis was done I set up a meeting with the owner to &nbsp;present what I've made.&nbsp;",
+          "title4": "FOOD TRACK<br>",
+          "subtitle4": "Designprocess",
+          "caption4": "Food Track is in the form of a mobile application protoype developed from many brainstorming meetings, prototypes, user tests and re-designs.&nbsp;",
           "button4": "<a data-app-btn=\"true\" href=\"foodtrack.html\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>",
           "media5": {
             "image": {
@@ -2180,7 +2180,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SANNAS PORTFOLIO</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SANNA´S PORTFOLIO</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">START</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"recentwork-mathem.html\" aria-expanded=\"false\">RECENT WORK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mathem.html\">MATHEM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wireframes.html\" aria-expanded=\"false\">WIREFRAMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"LOVEFROMLAPLAND.html\" aria-expanded=\"false\">LOVEFROMLAPLAND</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"foodtrack.html\" aria-expanded=\"false\">FOOD TRACK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact-me.html\" aria-expanded=\"false\">CONTACT ME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
