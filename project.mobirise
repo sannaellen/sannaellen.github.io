@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "foodtrack.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -214,7 +214,9 @@
           "_styles": {
             ".mbr-section-lead": {
               "font-size": "16px",
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
             },
             ".mbr-section-title": {
               "color": "#ffffff"
@@ -252,10 +254,10 @@
             },
             ".mbr-section-text": {
               "color": "#ffffff",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
               "text-align": "right",
-              "font-size": "16px"
+              "font-size": "18px"
             }
           },
           "_tags": [
