@@ -24,7 +24,7 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 69,
     "versionPublish": "3.12.1",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/heja-128x72-2.png",
     "noImageResize": ""
   },
   "pages": {
