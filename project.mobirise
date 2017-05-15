@@ -1,7 +1,7 @@
 {
   "settings": {
     "currentPage": "index.html",
-    "name": "My Site",
+    "name": "Sanna´s portfolio",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -14,7 +14,7 @@
         "dangerColor": "#f28281",
         "titleFont": "Yanone Kaffeesatz",
         "subtitleFont": "Roboto Condensed",
-        "textFont": "Lato",
+        "textFont": "Yanone Kaffeesatz",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false,
@@ -23,7 +23,9 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 69,
-    "versionPublish": "3.12.1"
+    "versionPublish": "3.12.1",
+    "favicon": "@PROJECT_PATH@/assets/images/hej-128x72-3.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
@@ -55,10 +57,10 @@
               "font-family": "'Roboto', sans-serif"
             },
             ".link": {
-              "font-size": "0.6rem"
+              "font-size": "0.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.650rem"
+              "font-size": "0.812rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -100,7 +102,7 @@
           "_anchor": "menu-0",
           "_params": {
             "bgColor": "#ffffff",
-            "fontSize": "0.6",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
@@ -117,12 +119,13 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/punch-5.gif",
+              "src": "@PROJECT_PATH@/assets/images/hej-227x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": false,
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -132,8 +135,7 @@
               "link": "https://mobirise.com",
               "size": "25",
               "color": "#00a885",
-              "newWindow": false,
-              "active": true
+              "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SANNA´S PORTFOLIO</a>",
@@ -535,10 +537,10 @@
               "font-family": "'Roboto', sans-serif"
             },
             ".link": {
-              "font-size": "0.6rem"
+              "font-size": "0.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.650rem"
+              "font-size": "0.812rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -580,7 +582,7 @@
           "_anchor": "menu-g",
           "_params": {
             "bgColor": "#ffffff",
-            "fontSize": "0.6",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
@@ -747,10 +749,10 @@
               "font-family": "'Roboto', sans-serif"
             },
             ".link": {
-              "font-size": "0.6rem"
+              "font-size": "0.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.650rem"
+              "font-size": "0.812rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -795,7 +797,7 @@
           "_anchor": "menu-q",
           "_params": {
             "bgColor": "#ffffff",
-            "fontSize": "0.6",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
@@ -918,10 +920,10 @@
               "font-family": "'Roboto', sans-serif"
             },
             ".link": {
-              "font-size": "0.6rem"
+              "font-size": "0.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.650rem"
+              "font-size": "0.812rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -963,7 +965,7 @@
           "_anchor": "menu-15",
           "_params": {
             "bgColor": "#ffffff",
-            "fontSize": "0.6",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
@@ -1171,10 +1173,10 @@
               "font-family": "'Roboto', sans-serif"
             },
             ".link": {
-              "font-size": "0.6rem"
+              "font-size": "0.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.650rem"
+              "font-size": "0.812rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1216,7 +1218,7 @@
           "_anchor": "menu-1c",
           "_params": {
             "bgColor": "#ffffff",
-            "fontSize": "0.6",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
@@ -1447,10 +1449,10 @@
               "font-family": "'Roboto', sans-serif"
             },
             ".link": {
-              "font-size": "0.6rem"
+              "font-size": "0.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.650rem"
+              "font-size": "0.812rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1492,7 +1494,7 @@
           "_anchor": "menu-1k",
           "_params": {
             "bgColor": "#ffffff",
-            "fontSize": "0.6",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
@@ -1874,10 +1876,10 @@
               "font-family": "'Roboto', sans-serif"
             },
             ".link": {
-              "font-size": "0.6rem"
+              "font-size": "0.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.650rem"
+              "font-size": "0.812rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1919,7 +1921,7 @@
           "_anchor": "menu-2",
           "_params": {
             "bgColor": "#ffffff",
-            "fontSize": "0.6",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
@@ -2136,10 +2138,10 @@
               "font-family": "'Roboto', sans-serif"
             },
             ".link": {
-              "font-size": "0.6rem"
+              "font-size": "0.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.650rem"
+              "font-size": "0.812rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2181,7 +2183,7 @@
           "_anchor": "menu-q",
           "_params": {
             "bgColor": "#ffffff",
-            "fontSize": "0.6",
+            "fontSize": "0.75",
             "fontName": {
               "name": "Roboto",
               "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
