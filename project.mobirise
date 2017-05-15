@@ -24,7 +24,7 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 69,
     "versionPublish": "3.12.1",
-    "favicon": "@PROJECT_PATH@/assets/images/hej-128x72-3.png",
+    "favicon": "",
     "noImageResize": ""
   },
   "pages": {
