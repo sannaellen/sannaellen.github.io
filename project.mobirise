@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "mathem.html",
+    "currentPage": "foodtrack.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 66,
+    "uniqCompNum": 67,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -267,7 +267,7 @@
             "imageSize": "64",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1502.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/p1060559-2000x1125.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1566,7 +1566,7 @@
             "timeout": 5,
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x1328.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1580,16 +1580,16 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
-                "active": false,
-                "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
-                "playVideo": true,
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1126.jpg",
+                "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
                 "contentAlign": "left",
                 "showTitle": true,
                 "title": "MOTIVATION",
                 "showText": true,
-                "text": "This project is a design process of a prototype to treat the topic of sustainability and the environment. The prototype has had a user-centered design process with multiple iterative moments as well as an underlying focus on critical design. The prototype has been named Food Track in the form of a mobile application developed from many brainstorming meetings, prototypes, user tests and re-designs.",
+                "text": "This project is a design process of a prototype to treat the topic of sustainability and the environment. The prototype has had a user-centered design process with multiple iterative moments as well as an underlying focus on critical design. The prototype has been named Food Track and is in the form of a mobile application developed from many brainstorming meetings, prototypes, user tests and re-designs.",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
@@ -1704,6 +1704,26 @@
           "allItem": "All"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1u",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "3",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "POSTERS",
+          "meta": ""
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -1728,8 +1748,8 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
             },
             ".mbr-cards-col:nth-child(odd) .card-subtitle": {
-              "font-size": "16px",
-              "color": "#000000"
+              "font-size": "14px",
+              "color": "#5b5b5b"
             }
           },
           "_anchor": "features1-1r",
@@ -1769,7 +1789,7 @@
             }
           },
           "title1": "Bootstrap 4",
-          "subtitle1": "<b>Poster - FOOD TRACK&nbsp;</b><br>Provokative poster<br><br><br>",
+          "subtitle1": "<b>FOOD TRACK&nbsp;</b><br>Provokative poster.<br><br><br>",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
@@ -1784,7 +1804,7 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "<br>Poster - DESIGN PROCESS",
+          "title2": "<br>DESIGN PROCESS",
           "subtitle2": "The process to show that the project have been interative.",
           "caption2": "",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
