@@ -504,7 +504,7 @@ h6,
   font-family: 'Roboto Condensed', sans-serif;
 }
 #footer1-2 P {
-  color: #00a885;
+  color: #eb6b56;
 }
 #header1-0 .mbr-section-lead {
   font-size: 16px;
@@ -521,6 +521,10 @@ h6,
   font-family: 'Roboto', sans-serif;
   text-align: right;
   font-size: 16px;
+}
+#social-buttons4-1t .mbr-section-title,
+#social-buttons4-1t .btn-social {
+  color: #fff;
 }
 
 
@@ -612,12 +616,12 @@ h6,
   text-align: left;
 }
 #footer1-h P {
-  color: #00a885;
+  color: #eb6b56;
 }
 
 
 #footer1-10 P {
-  color: #00a885;
+  color: #eb6b56;
 }
 #menu-q .hide-buttons .nav-btn {
   display: none !important;
@@ -769,7 +773,7 @@ h6,
   text-align: center;
 }
 #footer1-16 P {
-  color: #00a885;
+  color: #eb6b56;
 }
 #msg-box5-18 H3 {
   font-family: 'Roboto Condensed', sans-serif;
@@ -847,7 +851,7 @@ h6,
   background-color: #000000;
 }
 #footer1-1d P {
-  color: #00a885;
+  color: #eb6b56;
 }
 
 
@@ -924,7 +928,7 @@ h6,
   background-color: #000000;
 }
 #footer1-1l P {
-  color: #00a885;
+  color: #eb6b56;
 }
 #slider3-1m P {
   text-align: left;
@@ -1025,7 +1029,7 @@ h6,
   background-color: #000000;
 }
 #footer1-3 P {
-  color: #00a885;
+  color: #eb6b56;
 }
 #features3-d H4 {
   font-family: 'Lato', sans-serif;
@@ -1109,7 +1113,7 @@ h6,
   background-color: #000000;
 }
 #footer1-r P {
-  color: #00a885;
+  color: #eb6b56;
 }
 #header3-u .mbr-section-title,
 #header3-u .mbr-section-subtitle {

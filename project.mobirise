@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 65,
+    "uniqCompNum": 66,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -188,7 +188,7 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#00a885"
+              "color": "#eb6b56"
             }
           },
           "_anchor": "footer1-2",
@@ -304,6 +304,33 @@
           "title": "CRITICAL DESIGN - ECOWALLET",
           "text": "During the course Advanced HCI we got to do a critical design project. Critial design is something that provokes your daily life. I decided to do a lo-fi and hi-fi prototype of this concept, by gathering knoledge about the target groups consumtion values and knowledge through interviews.&nbsp;",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-1t",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW ME",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/sannalagerbeck\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/1/106033087190469544367\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCRroABbbRvtdv334EdvqfLA\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/sannaellen/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/sanna-lagerb%C3%A4ck-283b5167/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         }
       ]
     },
@@ -651,7 +678,7 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#00a885"
+              "color": "#eb6b56"
             }
           },
           "_anchor": "footer1-h",
@@ -681,7 +708,7 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#00a885"
+              "color": "#eb6b56"
             }
           },
           "_anchor": "footer1-10",
@@ -1037,7 +1064,7 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#00a885"
+              "color": "#eb6b56"
             }
           },
           "_anchor": "footer1-16",
@@ -1230,7 +1257,7 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#00a885"
+              "color": "#eb6b56"
             }
           },
           "_anchor": "footer1-1d",
@@ -1501,7 +1528,7 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#00a885"
+              "color": "#eb6b56"
             }
           },
           "_anchor": "footer1-1l",
@@ -1925,7 +1952,7 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#00a885"
+              "color": "#eb6b56"
             }
           },
           "_anchor": "footer1-3",
@@ -2239,7 +2266,7 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#00a885"
+              "color": "#eb6b56"
             }
           },
           "_anchor": "footer1-r",
