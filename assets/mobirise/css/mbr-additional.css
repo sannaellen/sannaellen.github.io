@@ -853,6 +853,9 @@ h6,
 #footer1-1d P {
   color: #eb6b56;
 }
+#header1-1i .mbr-section-lead {
+  font-size: 20px;
+}
 
 
 
@@ -930,11 +933,9 @@ h6,
 #footer1-1l P {
   color: #eb6b56;
 }
-#slider3-1m P {
-  text-align: left;
-}
-#slider3-1m H2 {
-  text-align: left;
+#content5-1v .mbr-section-title,
+#content5-1v p {
+  color: #fff;
 }
 #header3-1u .mbr-section-title,
 #header3-1u .mbr-section-subtitle {

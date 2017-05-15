@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "foodtrack.html",
+    "currentPage": "love-from-lapland.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 67,
+    "uniqCompNum": 69,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -241,7 +241,7 @@
             "showButtons": true
           },
           "title": "INTERACTION DESIGN",
-          "text": "For me, the role of interaction designer means that you take care of users' experiences, opinions, and how they actually use a product to either find out how to develop, improve or create a better user experience. An interaction designer understands, designs and analyzes the interaction between human and technology. It's important to have a good ability to see how people use their technology, both professionally and in everyday, and how it affects our lives. It is therefore primarily about creating products that users love to use.<br><br>Why i choose to study interaction design was because i was interested inte cognitive behavior and i wanted to develop future digital sulotions.&nbsp;I have a passion for designing clean and functional user experiences and i love turning complex problems into beautiful and intuitive interface designs. ",
+          "text": "An interaction designer understands, designs and analyzes the interaction between human and technology. It's important to have a good ability to see how people use their technology, both professionally and in everyday life. It is therefore primarily about creating products that users love to use.<br><br>I chose to study interaction design, because I´m interested in cognitive behavior and I want&nbsp;to develop solutions for the future.&nbsp;I have a passion for designing clean and functional user experiences and i love turning complex problems into beautiful and intuitive interface designs. ",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"cv.html\" data-toolbar=\"-mbrBtnMove\">GO TO MY CV AND PERSONAL LETTER</a> "
         },
         {
@@ -1302,7 +1302,12 @@
           },
           "title": "WRIEFRAMES",
           "text": "&nbsp;Is a visual guide that represents a basic framework of a website, an app or any other digital interface. Wireframes are created to try out and to find the best sollution for your interface. Wireframe usually lack any typographic style, color, or graphics, since the main focus lies in functionality, behavior, and priority of content.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-size": "20px"
+            }
+          }
         },
         {
           "_tags": [
@@ -1547,59 +1552,36 @@
           "text": "Sanna Lagerbäck 2017"
         },
         {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "slider3",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            },
-            "H2": {
-              "text-align": "left"
-            }
-          },
+          "_name": "content5",
+          "_anchor": "content5-1v",
           "_params": {
-            "autoplay": false,
-            "paddingTop": "2",
-            "paddingBottom": "0",
-            "timeout": 5,
-            "slides": [
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x1328.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "FOOD TRACK",
-                "showText": true,
-                "text": "Food Track wants to show the full journey of the product. With this application it becomes possible to see a visual overview of how the product has been transported, as well as get more information about both human and animal conditions at, for example, conditions in factories and farms. Food Track is an informative and learning application that aims to broaden knowledge about the food consumers choice to take more responsibility and to make a more active choice.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
-              },
-              {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1126.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "left",
-                "showTitle": true,
-                "title": "MOTIVATION",
-                "showText": true,
-                "text": "This project is a design process of a prototype to treat the topic of sustainability and the environment. The prototype has had a user-centered design process with multiple iterative moments as well as an underlying focus on critical design. The prototype has been named Food Track and is in the form of a mobile application developed from many brainstorming meetings, prototypes, user tests and re-designs.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              }
-            ],
-            "fullScreen": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1328.jpg",
             "bgColor": "#fff",
-            "showBullets": false
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
           },
-          "_anchor": "slider3-1m",
-          "articleLayout": false
+          "title": "FOOD TRACK",
+          "caption": "<p>Food Track wants to show the full journey of the product. With this application it becomes possible to see a visual overview of how the product has been transported, as well as get more information about both human and animal conditions at, for example, conditions in factories and farms. Food Track is an informative and learning application that aims to broaden knowledge about the food consumers choice to take more responsibility and to make a more active choice.</p><p>This project is a design process of a prototype to treat the topic of sustainability and the environment. The prototype has had a user-centered design process with multiple iterative moments as well as an underlying focus on critical design. The prototype has been named Food Track and is in the form of a mobile application developed from many brainstorming meetings, prototypes, user tests and re-designs.</p>"
         },
         {
           "_tags": [
