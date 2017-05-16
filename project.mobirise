@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "mathem.html",
+    "currentPage": "recent-work.html",
     "name": "Sanna´s portfolio",
     "theme": {
       "name": "mobirise3",
@@ -24,8 +24,8 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 69,
     "versionPublish": "3.12.1",
-    "favicon": "@PROJECT_PATH@/assets/images/heja-128x72-2.png",
-    "noImageResize": ""
+    "favicon": "@PROJECT_PATH@/assets/images/heja-128x72-4.png",
+    "noImageResize": "true"
   },
   "pages": {
     "index.html": {
