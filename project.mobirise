@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "mathem.html",
     "name": "Sanna´s portfolio",
     "theme": {
       "name": "mobirise3",
@@ -448,7 +448,7 @@
           },
           "title2": "B-test",
           "subtitle2": "Changes from an evaluation",
-          "caption2": "10 user test on the target group \"cognitive impairment\" to identify where they felt distracted or confused on where they were or what to klick next.&nbsp;<br><br>Changes during the test:&nbsp;<br>- Progress bar<br>- Chaning the heading to say on what stage you are on",
+          "caption2": "10 user test on the target group \"cognitive impairment\" to identify where they felt distracted or confused on where they were or what to click next.&nbsp;<br><br>Changes during the test:&nbsp;<br>- Progress bar<br>- Chaning the heading to say on what stage you are on",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
