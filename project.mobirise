@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "mathem.html",
+    "currentPage": "love-from-lapland.html",
     "name": "Sanna´s portfolio",
     "theme": {
       "name": "mobirise3",
@@ -2229,7 +2229,7 @@
           "_name": "header2",
           "_anchor": "header2-t",
           "_params": {
-            "imageSize": "65",
+            "imageSize": "58",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
@@ -2327,7 +2327,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Lovefromlapland is an ecommerce that wanted to have an conversion rate analysis done of their site. I did a user test to find the most regulary occuring painpoints for the users. &nbsp;</p>"
+          "text": "<p>Lovefromlapland is an ecommerce that wanted to have an conversion rate analysis done of their site. I did a user test to find the most regulary occuring painpoints for the users and an analysis to improve their conversion rate that also incuded design alternatives. &nbsp;</p>"
         },
         {
           "_tags": [
