@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "mathem.html",
     "name": "Sanna´s portfolio",
     "theme": {
       "name": "mobirise3",
@@ -370,7 +370,7 @@
             "showButtons": false
           },
           "title": "A/B/C-test",
-          "text": "A/B testing is a term for a randomized experiment with two variants, A and B, and in this case also a C version which are the control and variation in the controlled experiment. A/B/C-testing is when 33% of the users get devided in to one of the versions. When the test has been live for a longer period of time you have a result about which one has been the more succesfull version according to your goals.",
+          "text": "A/B testing is a term for a randomized experiment with two variants, A and B, and in this case also a C version which are the control and variation in the controlled experiment. A/B/C-testing is when 33% of the users get devided into one of the versions during a live test. When the test has been live for a longer period of time you have a result about which one has been the more succesfull version according to your goals.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
@@ -464,7 +464,7 @@
           },
           "title3": "C-test",
           "subtitle3": "Changes from web guidelines",
-          "caption3": "The ecommerce design has been reviewed based on selected sections of web guidelines. The review has been carried out by Begripsam, who has also selected the points from the web guidelines that are applicable in this project.<br><br>Changes during the test: <br>- Progress bar<br>- Chaning the heading to say on what stage you are on<br>Uderlining the name of the product to make it look like you can click on it<br>-Taken away the customer support",
+          "caption3": "The ecommerce design has been reviewed based on selected sections of web guidelines. The review has been carried out by Begripsam, who has also selected the points from the web guidelines that are applicable in this project.<br><br>Changes during the test: <br>- Progress bar<br>- Chaning the heading to say on what stage you are on<br>-Underlining the name of the product to make it look like you can click on it<br>-Taken away one of the customer support information&nbsp;",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
