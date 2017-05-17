@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "love-from-lapland.html",
+    "currentPage": "foodtrack.html",
     "name": "Sanna´s portfolio",
     "theme": {
       "name": "mobirise3",
@@ -1797,7 +1797,7 @@
             }
           },
           "title2": "<br>DESIGN PROCESS",
-          "subtitle2": "The process to show that the project have been interative.",
+          "subtitle2": "The process to show that the project have been iterative.",
           "caption2": "",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
