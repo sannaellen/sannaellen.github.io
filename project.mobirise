@@ -1516,7 +1516,7 @@
             "paddingBottom": "0",
             "bgImageRadio": true,
             "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/stripes10.gif",
+            "bgImage": "@PROJECT_PATH@/assets/images/stripes11.gif",
             "bgColor": "#c29d94",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1588,7 +1588,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/stripes10.gif",
+            "bgImage": "@PROJECT_PATH@/assets/images/stripes11.gif",
             "bgColor": "#c29d94",
             "bgColorRadio": false,
             "bgVideo": {
