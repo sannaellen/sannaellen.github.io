@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-05-16_1701",
-    "currentPage": "index.html",
+    "currentPage": "food-track.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -435,7 +435,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#f0f0f0",
+            "bgColor": "#b7a4a2",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -528,7 +528,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#6daca0",
+            "bgColor": "#b7a4a2",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -597,7 +597,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#6daca0",
+            "bgColor": "#b7a4a2",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -665,7 +665,7 @@
           "_params": {
             "imageSize": "48",
             "paddingTop": "2",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": false,
             "bgImage": "@PROJECT_PATH@/assets/images/stripes.gif",
@@ -737,7 +737,7 @@
           "_params": {
             "imageSize": "48",
             "paddingTop": "2",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": false,
             "bgImage": "@PROJECT_PATH@/assets/images/stripes.gif",
@@ -809,7 +809,7 @@
           "_params": {
             "imageSize": "48",
             "paddingTop": "2",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": false,
             "bgImage": "@PROJECT_PATH@/assets/images/stripes.gif",
@@ -940,7 +940,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#94ba85",
+            "bgColor": "#b7a4a2",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1129,7 +1129,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#c96c67",
+            "bgColor": "#b7a4a2",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1295,7 +1295,7 @@
           "_name": "msg-box4",
           "_anchor": "msg-box4-13",
           "_params": {
-            "imageSize": "60",
+            "imageSize": "52",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -1369,7 +1369,7 @@
           "_params": {
             "imageSize": 50,
             "paddingTop": "3",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": false,
             "bgImage": "@PROJECT_PATH@/assets/images/stripes.gif",
@@ -1441,7 +1441,7 @@
           "_params": {
             "imageSize": 50,
             "paddingTop": 3,
-            "paddingBottom": "0",
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": false,
             "bgImage": "@PROJECT_PATH@/assets/images/stripes.gif",
@@ -1516,7 +1516,7 @@
             "paddingBottom": "0",
             "bgImageRadio": true,
             "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/stripes14.gif",
+            "bgImage": "@PROJECT_PATH@/assets/images/stripes0.gif",
             "bgColor": "#c29d94",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1585,10 +1585,10 @@
           "_params": {
             "imageSize": 50,
             "paddingTop": 3,
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/stripes14.gif",
+            "bgImage": "@PROJECT_PATH@/assets/images/stripes0.gif",
             "bgColor": "#c29d94",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1835,7 +1835,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#b3c4b3",
+            "bgColor": "#b7a4a2",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1877,7 +1877,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#b3c4b3",
+            "bgColor": "#b7a4a2",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1946,7 +1946,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#b3c4b3",
+            "bgColor": "#b7a4a2",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2015,7 +2015,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#b3c4b3",
+            "bgColor": "#b7a4a2",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2084,7 +2084,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#b3c4b3",
+            "bgColor": "#b7a4a2",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
