@@ -9,7 +9,7 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 65,
-    "versionPublish": "3.12.1",
+    "versionPublish": "4.2.0",
     "favicon": "@PROJECT_PATH@/assets/images/logo3-3.gif",
     "noImageResize": ""
   },
@@ -50,15 +50,15 @@
           "_name": "dropdown-menu",
           "_anchor": "dropdown-menu-2",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": true,
             "bgColor": "#333333",
             "fontSize": "0.8",
             "fontName": {},
-            "fontColor": "#ffffff",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true
+            "fontColor": "#ffffff"
           },
           "logo": {
             "image": {
@@ -102,26 +102,26 @@
           "_name": "msg-box4",
           "_anchor": "msg-box4-0",
           "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
             "imageSize": 50,
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#b7a4a2",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#b7a4a2",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": false,
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": true
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -147,7 +147,7 @@
             }
           },
           "headerAlign": "left",
-          "title": "SANNA LAGERBÄCK<br>UX DESIGNER",
+          "title": "SANNA LAGERBÄCK<br>UX/UI DESIGNER",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Hey! I´m glad you found your way to my portfolio. Here you can find out more about me, my recent work and get in contact with me.&nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html#content5-1o\" data-toolbar=\"-mbrBtnMove\">RECENT WORK</a> "
@@ -155,14 +155,14 @@
         {
           "items": [
             {
-              "text": "<p class=\"mbr-reviews__p\">\"When working with Sanna, her drive for task and chasing is noticeable to make things better all the time. There is no task that is too small or large because Sanna takes it with a positive attitude and a rather direct solution to the problem / task.\"</p>",
               "authorName": "KARL KHILBOM.",
-              "authorBio": "CEO, VENDRE"
+              "authorBio": "CEO, VENDRE",
+              "text": "<p class=\"mbr-reviews__p\">\"When working with Sanna, her drive for task and chasing is noticeable to make things better all the time. There is no task that is too small or large because Sanna takes it with a positive attitude and a rather direct solution to the problem / task.\"</p>"
             },
             {
-              "text": "<p class=\"mbr-reviews__p\">\"Sanna has taken responsibility for all the tasks she received beyond expectations. Even after a few weeks, she had completed the internship plan we had for the 10 weeks and then proceeded to sharp customer projects.\"</p>",
               "authorName": "LINNEA BERGLUND.",
-              "authorBio": "INTERACTION DESIGNER, VENDRE"
+              "authorBio": "INTERACTION DESIGNER, VENDRE",
+              "text": "<p class=\"mbr-reviews__p\">\"Sanna has taken responsibility for all the tasks she received beyond expectations. Even after a few weeks, she had completed the internship plan we had for the 10 weeks and then proceeded to sharp customer projects.\"</p>"
             },
             {
               "text": "<p class=\"mbr-reviews__p\">“När man jobbar tillammas med Sanna så märks hennes driv för uppgiften och jagandet för att hela tiden göra saker lite bättre. Det finns ingen uppgift som är för liten eller stor för att Sanna tar åt sig den med positiv attityd och en ganska direkt lösning av problemet / uppgiften.”</p>",
@@ -176,32 +176,32 @@
           "_name": "testimonials1",
           "testimonial": [
             {
-              "text": "<p class=\"mbr-reviews__p\">\"When working with Sanna, her drive for task and chasing is noticeable to make things better all the time. There is no task that is too small or large because Sanna takes it with a positive attitude and a rather direct solution to the problem / task.\"</p>",
               "authorName": "KARL KHILBOM.",
-              "authorBio": "CEO, VENDRE"
+              "authorBio": "CEO, VENDRE",
+              "text": "<p class=\"mbr-reviews__p\">\"When working with Sanna, her drive for task and chasing is noticeable to make things better all the time. There is no task that is too small or large because Sanna takes it with a positive attitude and a rather direct solution to the problem / task.\"</p>"
             },
             {
-              "text": "<p class=\"mbr-reviews__p\">\"Sanna has taken responsibility for all the tasks she received beyond expectations. Even after a few weeks, she had completed the internship plan we had for the 10 weeks and then proceeded to sharp customer projects.\"</p>",
               "authorName": "LINNEA BERGLUND.",
-              "authorBio": "INTERACTION DESIGNER, VENDRE"
+              "authorBio": "INTERACTION DESIGNER, VENDRE",
+              "text": "<p class=\"mbr-reviews__p\">\"Sanna has taken responsibility for all the tasks she received beyond expectations. Even after a few weeks, she had completed the internship plan we had for the 10 weeks and then proceeded to sharp customer projects.\"</p>"
             }
           ],
           "_anchor": "testimonials1-4",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "1",
-            "count": "2",
+            "showTitle": true,
             "showName": true,
             "showBio": true,
+            "count": "2",
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "bgImageRadio": true,
-            "parallax": false,
             "bgImage": "@PROJECT_PATH@/assets/images/stripes.gif",
-            "bgColor": "#fff",
+            "parallax": false,
             "bgColorRadio": false,
+            "bgColor": "#fff",
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true
+            "overlayOpacity": 0.5
           },
           "header": "WHAT PEOPLE SAY ABOUT ME"
         },
@@ -226,26 +226,26 @@
           "_name": "content5",
           "_anchor": "content5-1o",
           "_params": {
-            "showCaption": "noCaption",
-            "paddingTop": "1",
-            "paddingBottom": "1",
             "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
             "showText": false,
             "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
+            "darkBackground": true,
             "overlay": true,
-            "overlayOpacity": 0.2,
             "overlayColor": "#28324e",
-            "showMeta": false,
-            "darkBackground": true
+            "overlayOpacity": 0.2
           },
           "title": "RECENT WORK",
           "meta": "By John Smith posted July 30, 2015",
@@ -259,27 +259,27 @@
           "_name": "features1",
           "_anchor": "features1-1m",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
             "showHeader": false,
             "showSubheader": false,
-            "columns": 4,
             "showImages": true,
             "showTitles": true,
             "showCaptions": true,
-            "showButtons": true
+            "showButtons": true,
+            "paddingTop": "1",
+            "paddingBottom": 3,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "headerAlign": "left",
           "header": "DROP-DEAD EASY WEBSITE MAKER",
@@ -433,13 +433,13 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#b7a4a2",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#b7a4a2",
             "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "text": "FOLLOW ME",
           "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/sannalagerbeck\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCRroABbbRvtdv334EdvqfLA\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/sannaellen/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>     <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-linkedin\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/sanna-lagerb%C3%A4ck-283b5167/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-linkedin\"></i></a> "
@@ -478,15 +478,15 @@
           "_name": "dropdown-menu",
           "_anchor": "dropdown-menu-5",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": true,
             "bgColor": "#333333",
             "fontSize": "0.8",
             "fontName": {},
-            "fontColor": "#ffffff",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true
+            "fontColor": "#ffffff"
           },
           "logo": {
             "image": {
@@ -522,26 +522,26 @@
           "_name": "msg-box4",
           "_anchor": "msg-box4-7",
           "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
             "imageSize": "41",
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#b7a4a2",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#b7a4a2",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": false,
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -591,26 +591,26 @@
           "_name": "msg-box4",
           "_anchor": "msg-box4-c",
           "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
             "imageSize": "33",
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#b7a4a2",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#b7a4a2",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": false,
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -663,26 +663,26 @@
           "_name": "msg-box4",
           "_anchor": "msg-box4-j",
           "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
             "imageSize": "48",
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "parallax": false,
             "bgImage": "@PROJECT_PATH@/assets/images/stripes.gif",
-            "bgColor": "#b0cac5",
+            "parallax": false,
             "bgColorRadio": false,
+            "bgColor": "#b0cac5",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": false,
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -735,26 +735,26 @@
           "_name": "msg-box4",
           "_anchor": "msg-box4-m",
           "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
             "imageSize": "48",
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "parallax": false,
             "bgImage": "@PROJECT_PATH@/assets/images/stripes.gif",
-            "bgColor": "#b0cac5",
+            "parallax": false,
             "bgColorRadio": false,
+            "bgColor": "#b0cac5",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": true,
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -807,26 +807,26 @@
           "_name": "msg-box4",
           "_anchor": "msg-box4-k",
           "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
             "imageSize": "48",
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "parallax": false,
             "bgImage": "@PROJECT_PATH@/assets/images/stripes.gif",
-            "bgColor": "#b0cac5",
+            "parallax": false,
             "bgColorRadio": false,
+            "bgColor": "#b0cac5",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": false,
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -891,15 +891,15 @@
           "_name": "dropdown-menu",
           "_anchor": "dropdown-menu-d",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": true,
             "bgColor": "#333333",
             "fontSize": "0.8",
             "fontName": {},
-            "fontColor": "#ffffff",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true
+            "fontColor": "#ffffff"
           },
           "logo": {
             "image": {
@@ -934,26 +934,26 @@
           "_name": "msg-box5",
           "_anchor": "msg-box5-e",
           "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
             "imageSize": 50,
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#b7a4a2",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#b7a4a2",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": false,
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -1000,26 +1000,26 @@
           "_name": "content5",
           "_anchor": "content5-t",
           "_params": {
-            "showCaption": "noCaption",
-            "paddingTop": "0",
-            "paddingBottom": "0",
             "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
             "showText": true,
             "showButton": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgImageRadio": true,
-            "parallax": false,
             "bgImage": "@PROJECT_PATH@/assets/images/stripes.gif",
-            "bgColor": "#fff",
+            "parallax": false,
             "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
+            "darkBackground": true,
             "overlay": false,
-            "overlayOpacity": 0.2,
             "overlayColor": "#28324e",
-            "showMeta": false,
-            "darkBackground": true
+            "overlayOpacity": 0.2
           },
           "title": "",
           "meta": "By John Smith posted July 30, 2015",
@@ -1048,26 +1048,26 @@
           "_name": "msg-box4",
           "_anchor": "msg-box4-1b",
           "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
             "imageSize": 50,
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#ffffff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": false,
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -1124,23 +1124,23 @@
           "_name": "msg-box2",
           "_anchor": "msg-box2-1j",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
             "paddingTop": 2,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#b7a4a2",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#b7a4a2",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "title": "A/B/C TEST - MATHEM´S&nbsp;CHECKOUT",
           "text": "",
@@ -1172,15 +1172,15 @@
           "_name": "dropdown-menu",
           "_anchor": "dropdown-menu-n",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": true,
             "bgColor": "#333333",
             "fontSize": "0.8",
             "fontName": {},
-            "fontColor": "#ffffff",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true
+            "fontColor": "#ffffff"
           },
           "logo": {
             "image": {
@@ -1219,26 +1219,26 @@
           "_name": "msg-box4",
           "_anchor": "msg-box4-12",
           "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
             "imageSize": "60",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#ffffff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": false,
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -1295,26 +1295,26 @@
           "_name": "msg-box4",
           "_anchor": "msg-box4-13",
           "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
             "imageSize": "52",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#ffffff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": true,
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -1367,26 +1367,26 @@
           "_name": "msg-box4",
           "_anchor": "msg-box4-1h",
           "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
             "imageSize": 50,
             "paddingTop": "3",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "parallax": false,
             "bgImage": "@PROJECT_PATH@/assets/images/stripes.gif",
-            "bgColor": "#f97352",
+            "parallax": false,
             "bgColorRadio": false,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": false,
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -1439,26 +1439,26 @@
           "_name": "msg-box4",
           "_anchor": "msg-box4-1g",
           "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
             "imageSize": 50,
             "paddingTop": 3,
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "parallax": false,
             "bgImage": "@PROJECT_PATH@/assets/images/stripes.gif",
-            "bgColor": "#c29d94",
+            "parallax": false,
             "bgColorRadio": false,
+            "bgColor": "#c29d94",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": false,
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -1511,26 +1511,26 @@
           "_name": "msg-box4",
           "_anchor": "msg-box4-1k",
           "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
             "imageSize": 50,
             "paddingTop": "3",
             "paddingBottom": "0",
             "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/stripes1.gif",
             "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/stripes0.gif",
-            "bgColor": "#c29d94",
             "bgColorRadio": false,
+            "bgColor": "#c29d94",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": false,
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -1583,26 +1583,26 @@
           "_name": "msg-box4",
           "_anchor": "msg-box4-1l",
           "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
             "imageSize": 50,
             "paddingTop": 3,
             "paddingBottom": "2",
             "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/stripes1.gif",
             "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/stripes0.gif",
-            "bgColor": "#c29d94",
             "bgColorRadio": false,
+            "bgColor": "#c29d94",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": false,
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -1667,15 +1667,15 @@
           "_name": "dropdown-menu",
           "_anchor": "dropdown-menu-o",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": true,
             "bgColor": "#333333",
             "fontSize": "0.8",
             "fontName": {},
-            "fontColor": "#ffffff",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true
+            "fontColor": "#ffffff"
           },
           "logo": {
             "image": {
@@ -1704,17 +1704,17 @@
           },
           "_anchor": "form1-p",
           "_params": {
+            "showTitle": true,
             "paddingTop": "1",
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/coffe.gif",
-            "bgColor": "#b7a4a2",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#b7a4a2",
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true
+            "overlayOpacity": 0.5
           },
           "title": "CONTACT ME",
           "form": {
@@ -1780,15 +1780,15 @@
           "_name": "dropdown-menu",
           "_anchor": "dropdown-menu-r",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": true,
             "bgColor": "#333333",
             "fontSize": "0.8",
             "fontName": {},
-            "fontColor": "#ffffff",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true
+            "fontColor": "#ffffff"
           },
           "logo": {
             "image": {
@@ -1826,26 +1826,26 @@
           "_name": "content5",
           "_anchor": "content5-1q",
           "_params": {
-            "showCaption": "noCaption",
-            "paddingTop": "1",
-            "paddingBottom": "2",
             "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
             "showText": false,
             "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#b7a4a2",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#b7a4a2",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
+            "darkBackground": true,
             "overlay": true,
-            "overlayOpacity": 0.2,
             "overlayColor": "#b3c4b3",
-            "showMeta": false,
-            "darkBackground": true
+            "overlayOpacity": 0.2
           },
           "title": "SOME OF THE WIREFRAMING TOOLS THAT I USE",
           "meta": "By John Smith posted July 30, 2015",
@@ -1871,26 +1871,26 @@
           "_name": "msg-box4",
           "_anchor": "msg-box4-1r",
           "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
             "imageSize": 50,
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#b7a4a2",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#b7a4a2",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": false,
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -1940,26 +1940,26 @@
           "_name": "msg-box4",
           "_anchor": "msg-box4-1c",
           "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
             "imageSize": 50,
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#b7a4a2",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#b7a4a2",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": false,
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -2009,26 +2009,26 @@
           "_name": "msg-box4",
           "_anchor": "msg-box4-1e",
           "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
             "imageSize": 50,
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#b7a4a2",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#b7a4a2",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": false,
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -2078,26 +2078,26 @@
           "_name": "msg-box4",
           "_anchor": "msg-box4-1p",
           "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
             "imageSize": "41",
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#b7a4a2",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#b7a4a2",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": false,
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
