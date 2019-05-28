@@ -15,7 +15,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 103,
+    "uniqCompNum": 104,
     "versionPublish": "4.10.1",
     "favicon": "@PROJECT_PATH@/assets/images/logo3-3.gif",
     "noImageResize": "",
@@ -45,7 +45,7 @@
             "bgImage": "images/bg5.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#7ac673",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
