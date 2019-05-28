@@ -54,8 +54,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "I’m Sanna, a UX designer based in Stockholm.",
-          "text": "Read more about what I do.&nbsp;",
+          "title": "I´m Sanna, a UX designer based in Stockholm",
+          "text": "Read more about what I do.",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"index.html#features1-2o\" data-toolbar=\"-mbrBtnMove\">RECENT WORK</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"contact-me.html\" data-toolbar=\"-mbrBtnMove\">CONTACT ME</a>",
           "_tags": [
             "Theme"
