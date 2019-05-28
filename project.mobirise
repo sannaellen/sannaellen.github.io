@@ -368,7 +368,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"contact-me.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-menu mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 35px; color: rgb(122, 198, 115);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ecowallet.html\">START</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">INTELLIPLAN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mathem.html\">VENDRE - MATHEM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"food-track.html\">FOODTRACK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ecowallet.html\">ECOWALLET</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wireframes.html\">WIREFRAMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-me.html\">CONTACT ME</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"contact-me.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-menu mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 35px; color: rgb(122, 198, 115);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ecowallet.html\">START</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">INTELLIPLAN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mathem.html\">VENDRE - MATHEM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"food-track.html\">FOODTRACK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ecowallet.html\">ECOWALLET</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wireframes.html\">WIREFRAMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-me.html\">CONTACT ME</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "msg-box5",
@@ -788,7 +788,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"contact-me.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-menu mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 35px; color: rgb(122, 198, 115);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ecowallet.html\">START</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">INTELLIPLAN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mathem.html\">VENDRE - MATHEM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"food-track.html\">FOODTRACK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ecowallet.html\">ECOWALLET</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wireframes.html\">WIREFRAMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-me.html\">CONTACT ME</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"contact-me.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-menu mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 35px; color: rgb(122, 198, 115);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ecowallet.html\">START</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">INTELLIPLAN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mathem.html\">VENDRE - MATHEM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"food-track.html\">FOODTRACK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ecowallet.html\">ECOWALLET</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wireframes.html\">WIREFRAMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-me.html\">CONTACT ME</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -1019,7 +1019,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"contact-me.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-menu mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 35px; color: rgb(122, 198, 115);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ecowallet.html\">START</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">INTELLIPLAN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mathem.html\">VENDRE - MATHEM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"food-track.html\">FOODTRACK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ecowallet.html\">ECOWALLET</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wireframes.html\">WIREFRAMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-me.html\">CONTACT ME</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"contact-me.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-menu mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 35px; color: rgb(122, 198, 115);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ecowallet.html\">START</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">INTELLIPLAN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mathem.html\">VENDRE - MATHEM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"food-track.html\">FOODTRACK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ecowallet.html\">ECOWALLET</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wireframes.html\">WIREFRAMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-me.html\">CONTACT ME</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "msg-box5",
@@ -1515,7 +1515,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"contact-me.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-menu mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 35px; color: rgb(122, 198, 115);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ecowallet.html\">START</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">INTELLIPLAN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mathem.html\">VENDRE - MATHEM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"food-track.html\">FOODTRACK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ecowallet.html\">ECOWALLET</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wireframes.html\">WIREFRAMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-me.html\">CONTACT ME</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"contact-me.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-menu mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 35px; color: rgb(122, 198, 115);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ecowallet.html\">START</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">INTELLIPLAN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mathem.html\">VENDRE - MATHEM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"food-track.html\">FOODTRACK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ecowallet.html\">ECOWALLET</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wireframes.html\">WIREFRAMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-me.html\">CONTACT ME</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -1629,7 +1629,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"contact-me.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-menu mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 35px; color: rgb(122, 198, 115);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ecowallet.html\">START</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">INTELLIPLAN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mathem.html\">VENDRE - MATHEM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"food-track.html\">FOODTRACK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ecowallet.html\">ECOWALLET</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wireframes.html\">WIREFRAMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-me.html\">CONTACT ME</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"contact-me.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-menu mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 35px; color: rgb(122, 198, 115);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ecowallet.html\">START</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">INTELLIPLAN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mathem.html\">VENDRE - MATHEM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"food-track.html\">FOODTRACK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ecowallet.html\">ECOWALLET</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wireframes.html\">WIREFRAMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-me.html\">CONTACT ME</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "msg-box3",
@@ -2020,7 +2020,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"contact-me.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-menu mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 35px; color: rgb(122, 198, 115);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ecowallet.html\">START</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">INTELLIPLAN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mathem.html\">VENDRE - MATHEM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"food-track.html\">FOODTRACK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ecowallet.html\">ECOWALLET</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wireframes.html\">WIREFRAMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-me.html\">CONTACT ME</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"contact-me.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-menu mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 35px; color: rgb(122, 198, 115);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ecowallet.html\">START</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">INTELLIPLAN</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mathem.html\">VENDRE - MATHEM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"food-track.html\">FOODTRACK</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ecowallet.html\">ECOWALLET</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wireframes.html\">WIREFRAMES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact-me.html\">CONTACT ME</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "_anchor": "dropdown-menu-1z"
         },
         {
@@ -2031,27 +2031,35 @@
             "showButtons": true,
             "showArrow": true,
             "contentAlign": "center",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1350x1080.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#4c6972",
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#222",
+            "overlayColor": "#ffffff",
             "overlayOpacity": 0.5
           },
           "title": "Intelliplan - UX designer",
-          "text": "Intelliplan is a business system for staffing companies with business areas within staffing, finance, recruitment and sales.\n<br><br>\nAt Intelliplan I work with creating the best user experience for new and existing users by conducting user tests, surveys, creating and letting users click test prototypes and having an iterative design process. I have a close relationship with our users and develop the system together with them.&nbsp;",
+          "text": "Intelliplan is a business system for staffing companies with business areas within staffing, finance, recruitment and sales. <br><br>At Intelliplan I work with creating the best user experience for new and existing users by conducting user tests, surveys, creating and letting users click test prototypes and having an iterative design process. I have a close relationship with our users and develop the system together with them.&nbsp;",
           "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "header1",
-          "_anchor": "header1-20"
+          "_anchor": "header1-20",
+          "_styles": {
+            "H1": {
+              "color": "#7ac673"
+            },
+            "P": {
+              "color": "#000000"
+            }
+          }
         },
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
