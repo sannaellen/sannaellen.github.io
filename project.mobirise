@@ -45,7 +45,7 @@
             "bgImage": "images/bg5.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#7ac673",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
